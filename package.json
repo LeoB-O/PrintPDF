@@ -1,0 +1,18 @@
+{
+  "name": "printpdf",
+  "version": "1.0.0",
+  "description": "A tiny tool to print pdf from blob object inspired by Print.js.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "print",
+    "pdf"
+  ],
+  "author": "LeoB_O",
+  "license": "MIT",
+  "devDependencies": {
+    "webpack": "^4.41.5"
+  }
+}
