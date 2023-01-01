@@ -14,6 +14,6 @@
   "author": "LeoB_O",
   "license": "MIT",
   "devDependencies": {
-    "webpack": "^4.41.5"
+    "webpack": "^5.75.0"
   }
 }
